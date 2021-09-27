@@ -1,0 +1,31 @@
+.titulo{
+    color: red;
+    text-align: center;
+    font-size: 60PX;
+    font-weight: bolder;
+    
+}
+.texto1{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.textofooter{
+    color:red;
+    font-size: 45px;
+    text-align: center;
+}
+.ajusteicono{
+    text-align: center;
+    background: black;
+    
+
+}
+.formu{
+    
+    color: brown;
+    
+
+}
